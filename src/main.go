@@ -1,6 +1,6 @@
 package main
 
-# Continue to read https://www.digitalocean.com/community/tutorials/how-to-make-an-http-server-in-go
+// Continue to read https://www.digitalocean.com/community/tutorials/how-to-make-an-http-server-in-go
 
 import (
 	"errors"
